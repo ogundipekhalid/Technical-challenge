@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Technical challenge\bin\Debug\net8.0\Technical challenge.exe
+C:\Users\DELL\Desktop\Technical challenge\bin\Debug\net8.0\Technical challenge.deps.json
+C:\Users\DELL\Desktop\Technical challenge\bin\Debug\net8.0\Technical challenge.runtimeconfig.json
+C:\Users\DELL\Desktop\Technical challenge\bin\Debug\net8.0\Technical challenge.dll
+C:\Users\DELL\Desktop\Technical challenge\bin\Debug\net8.0\Technical challenge.pdb
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.dll
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\refint\Technical challenge.dll
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.pdb
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\Technical challenge.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Technical challenge\obj\Debug\net8.0\ref\Technical challenge.dll
